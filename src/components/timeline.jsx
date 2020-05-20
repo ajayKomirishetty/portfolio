@@ -23,25 +23,62 @@ export default class Timeline extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Internship at GGK Tech{" "}
-                          <span> 2017 December - 2018 May</span>
+                          Service desk technician at CGI, Sherbrooke{" "}
+                          <span> 2020 March - Present </span>
                         </h2>
                         <p>
-                          1. Received training in .NET applications with C# and
-                          ADO.NET for 4 months <br /> 2. Worked on developing
-                          "GitMonitor", a WPF application that can be used to
-                          monitor all Git repositories on a system using Windows
-                          Services and REST API.
-                          <br /> 3. worked on React js
+                          1. Diagnose, Troubleshoot and resolve incidents or
+                          service requests reported by client
+                          <br /> 2. Diagnose and resolve technical hardware and
+                          software issues (printer, cell phone, web browser, MS
+                          office site, etc.,)
+                          <br />
+                          3. Resolve technical problems in different Microsoft
+                          windows operating systems
+                          <br />
+                          4. Leverage appropriate tools for diagnostics,
+                          troubleshooting and resolution activities (remote
+                          takeover, Knowledge base, troubleshooting, ticketing
+                          tool, Communication tools etc.,)
+                          <br />
+                          5. Monitor incidents under resolution
+                          <br />
+                          6. Follow standard service desk procedures
+                          <br />
+                          7. Log, document all troubleshooting steps and
+                          resolution activities with in incident management tool
                         </p>
                       </div>
                     </div>
                   </article>
+
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Masters at Bishop's University{" "}
+                          <span> 2020 January - 2021 September</span>
+                        </h2>
+                        <p>
+                          1. I am currently pursuing Masters in Computer Science
+                          at Bishop's University, and will be graduating in
+                          September 2021
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInTop"
@@ -73,6 +110,32 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
+
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Internship at GGK Tech{" "}
+                          <span> 2017 December - 2018 May</span>
+                        </h2>
+                        <p>
+                          1. Received training in .NET applications with C# and
+                          ADO.NET for 4 months <br /> 2. Worked on developing
+                          "GitMonitor", a WPF application that can be used to
+                          monitor all Git repositories on a system using Windows
+                          Services and REST API.
+                          <br /> 3. worked on React js
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
