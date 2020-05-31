@@ -14,20 +14,19 @@ export default class About extends Component {
                 >
                   <div className="col-md-12">
                     <div className="about-desc">
-                      <span className="heading-meta">About </span>
+                      <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a pursuing Masters in Computer Science at Bishop's
-                        university, Sherbrooke, Canada, Back in my home country
+                        I am pursuing Masters in Computer Science at Bishop's
+                        University in Sherbrooke Canada. In my home country
                         India, I have completed Bachelors in Computer Science at
                         GuruNanak Institutions.
                       </p>
                       <p>
-                        During 3rd year of my graduation, I was selected in a IT
-                        Company, where I have got an opportunity to work as
-                        Trainee Software Engineer for 6 months starting from 4th
-                        year second semester, and then worked as Associate
-                        Software Engineer for 18 months.{" "}
+                        During 3rd year of my graduation I am selected in IT
+                        Company(GGK Tech) where I had an an opportunity to work
+                        as Software Engineer Trainee for 6 months then worked as
+                        Associate Software Engineer
                       </p>
                     </div>
                   </div>
@@ -85,10 +84,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>
-                      I am pursuing my internship with DevOps team at Juniper
-                      and working with tools like Jenkins, Docker, K8s
-                    </p>
+                    <p>I am working with tools like Jenkins, Docker, K8s</p>
                   </div>
                 </div>
               </div>

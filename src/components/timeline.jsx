@@ -27,7 +27,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 className="timeline-heading">
                           Service desk technician at CGI, Sherbrooke{" "}
                           <span> 2020 March - Present </span>
                         </h2>
@@ -66,10 +66,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 className="timeline-heading">
                           Masters at Bishop's University{" "}
                           <span> 2020 January - 2021 September</span>
-                        </h2>
+                        </h2 >
                         <p>
                           1. I am currently pursuing Masters in Computer Science
                           at Bishop's University, and will be graduating in
@@ -79,6 +79,7 @@ export default class Timeline extends Component {
                     </div>
                   </article>
 
+                 
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInTop"
@@ -88,7 +89,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 className="timeline-heading">
                           Associate Software Engineer at GGK Tech{" "}
                           <span>2018 May - 2019 December</span>
                         </h2>
@@ -120,7 +121,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 className="timeline-heading">
                           Internship at GGK Tech{" "}
                           <span> 2017 December - 2018 May</span>
                         </h2>
@@ -135,7 +136,6 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -145,7 +145,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>
+                        <h2 className="timeline-heading">
                           Bachelors at Gurunanak Institutions Technical Campus{" "}
                           <span> 2014 September - 2018 May </span>
                         </h2>
